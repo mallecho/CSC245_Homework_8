@@ -1,0 +1,11 @@
+Name,Age,Score,Passed
+Alice,24,85.5,True
+Bob,27,92.0,True
+Charlie,22,78.0,False
+Diana,32,90.5,True
+Edward,29,88.5,True
+Fiona,23,75.0,False
+George,28,82.0,True
+Helen,30,88.0,True
+Ian,26,68.5,False
+Jane,31,91.0,True
